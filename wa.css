@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: hsl(129, 77%, 47%);
+    color: hsl(120, 100%, 0%);
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.about, .skills, .CLUBS, .contact {
+    background-color: rgb(89, 138, 175);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    margin: 5px 0;
+}
+
+.CLUBS {
+    margin-bottom: 30px;
+}
